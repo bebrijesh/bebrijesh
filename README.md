@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bebrijesh&label=Views&color=blue&style=plastic" alt="bebrijesh" /> </p>
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bebrijesh&label=Views&color=blue&style=plastic" alt="bebrijesh" /> </p>
 
 <h1 align="center">Hey, I'm Brijesh.</h1>
 <h3 align="center">I'm self-thought android developer. I spend most of the time learning, coding, create project and teaching others.</h3>
