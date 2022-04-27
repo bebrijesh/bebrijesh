@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bebrijesh&label=Views&color=blue&style=plastic" alt="bebrijesh" /> </p>
 
 <h1 align="center">Hey, I'm Brijesh.</h1>
-<h3 align="center">I'm self-thought android developer. I spend most of the time learning, coding, create project and teaching others.</h3>
+<h3 align="center">I'm a self-thought android developer. I spend most of the time learning, coding, creating projects,s and teaching others.</h3>
 
 ## Currently Learning
 - Currently, I'm working to android development.
