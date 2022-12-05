@@ -11,7 +11,8 @@
 - I'm currently learning Web Development.
 - I'm constantly learning new skills and striving for progress.
 - Motto: Learn, Create and Teach.
-- 
+- How to reach me: Check social links below.
+  
 ## Socials
 
 [![GitHub URL](https://img.shields.io/twitter/url?label=%40bebrijesh&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fbebrijesh)](https://github.com/bebrijesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brijeshkumarchavda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bebrijesh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bebrijeshkumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/be.brijesh) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chavdabrijeshkumar25@gmail.com)
