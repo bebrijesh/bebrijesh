@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=bebrijesh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iambrijeshtoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
@@ -12,11 +12,12 @@
 - I'm constantly learning new skills and striving for progress.
 - Motto: Learn, Create and Teach.
 - How to reach me: Check social links below.
-  
+
 ## Socials
 
-[![GitHub URL](https://img.shields.io/twitter/url?label=%40bebrijesh&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fbebrijesh)](https://github.com/bebrijesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brijeshkumarchavda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bebrijesh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bebrijeshkumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/be.brijesh) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chavdabrijeshkumar25@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/be-brijesh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16780183)
+[![GitHub URL](https://img.shields.io/twitter/url?label=%40iambrijeshtoo&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2Fiambrijeshtoo)](https://github.com/iambrijeshtoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iambrijeshtoo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iambrijeshtoo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iambrijeshtoo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iambrijeshtoo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chavdabrijeshkumar25@gmail.com)[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16780183)
+
+ <!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/be-brijesh)  -->
 
 ## Currently Learning
 
@@ -35,12 +36,11 @@
 - Augmented Reality (AR)
 - Virtual Reality (VR)
 
-
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bebrijesh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bebrijesh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bebrijesh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iambrijeshtoo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iambrijeshtoo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iambrijeshtoo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Quote
 
