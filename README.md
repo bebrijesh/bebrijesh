@@ -5,6 +5,12 @@
 <h1 align="center">Hey, I'm Brijesh.</h1>
 <h3 align="center">I'm a learner. Always open to learning new technology. I spend most of the time learning, coding, creating projects and teaching others.</h3>
 
+## About Me
+
+- I'm currently learning Web Development.
+- I'm constantly learning new skills and striving for progress.
+- Motto: Learn, Create and Teach.
+
 ## Currently Learning
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
