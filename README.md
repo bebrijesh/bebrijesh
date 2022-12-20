@@ -35,7 +35,7 @@
 
 - Augmented Reality (AR)
 - Virtual Reality (VR)
-
+<!-- 
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=iambrijeshtoo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -44,6 +44,6 @@
 
 ## Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
